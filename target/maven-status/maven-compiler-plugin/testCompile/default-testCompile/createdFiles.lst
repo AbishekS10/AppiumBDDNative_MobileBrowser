@@ -1,0 +1,4 @@
+StepDefinitions\BrowserPagestep.class
+StepDefinitions\HomePage.class
+StepDefinitions\LoginSteps.class
+Runners\TestRunner.class
