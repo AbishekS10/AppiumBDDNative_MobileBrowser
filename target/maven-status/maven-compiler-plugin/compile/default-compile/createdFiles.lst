@@ -1,5 +1,0 @@
-PageObjects\BrowserPage.class
-PageObjects\HomePage.class
-Base\ConfigManager.class
-Base\BaseTest.class
-PageObjects\LoginPage.class
